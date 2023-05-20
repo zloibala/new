@@ -5,7 +5,7 @@ import FlexBox from "./components/inputForm/FlexBox";
 function App() {
   return (
     <div className="App">
-      {/* <InputForm /> */}
+      <InputForm />
       <FlexBox />
     </div>
   );
