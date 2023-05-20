@@ -2,9 +2,18 @@
   display: flex;
   justify-content: center;
   margin-top: 3rem;
+  /* align-items: center;
+  flex-direction: column;
+  width: 23%;
+  border-radius: 10px; */
 }
 
 .form-container {
   display: flex;
   flex-direction: column;
+  background-color: #a9c9ff;
+  background-image: linear-gradient(180deg, #a9c9ff 0%, #ffbbec 100%);
+}
+h1 {
+  color: white;
 }
